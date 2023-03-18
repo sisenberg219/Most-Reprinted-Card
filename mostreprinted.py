@@ -1,18 +1,26 @@
 import scrython
-from datetime import date
 import pandas as pd
-
-year = date.today().year
 
 # returns a list of all known sets
 sets = scrython.sets.Sets()
 temp = {}
 
+year = 1993
+
 # prints a list of all sets. Filters out sets that do not provide black border cards or are online exclusive
-for set in sets.data():
+for set in reversed(sets.data()):
     if set['set_type'] != 'token' and set['set_type'] != 'minigame' and set['set_type'] != 'memorabilia' and set['set_type'] != 'treasure_chest' and set['set_type'] !='alchemy':
         setCode = set['code']
-        print(setCode)
+        setYear = int(set['released_at'][0:4])
+        setYear = int(set['released_at'][0:4])
+        if setYear != year:
+            sortedTemp = sorted(temp.items(), key=lambda x:x[1], reverse=True)
+            tempDict = dict(sortedTemp)
+            df = pd.DataFrame.from_dict(tempDict, orient='index')
+            df.to_csv('results/{}.csv'.format(year))
+            print('{} CSV Created'.format(year))
+            year += 1
+        print(setCode, setYear)
         setCards = scrython.cards.Search(q='set:{},pust -is:onlyprint'.format(setCode))
         if setCards.data is not None:
             for card in setCards.data():
