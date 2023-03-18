@@ -14,6 +14,8 @@ for set in reversed(sets.data()):
         setYear = int(set['released_at'][0:4])
         setYear = int(set['released_at'][0:4])
         if setYear != year:
+            # set:pust() is used so that a card always returns no matter the set. Prevents errors from returning empty searches
+            temp['Earl of Squirrel'] = 2
             sortedTemp = sorted(temp.items(), key=lambda x:x[1], reverse=True)
             tempDict = dict(sortedTemp)
             df = pd.DataFrame.from_dict(tempDict, orient='index')
@@ -29,6 +31,3 @@ for set in reversed(sets.data()):
                 else:
                     temp[card['name']] += 1
 
-# set:pust() is used so that a card always returns no matter the set. Prevents errors from returning empty searches
-temp['Earl of Squirrel'] = 1
-print(temp)
