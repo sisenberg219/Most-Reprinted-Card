@@ -55,5 +55,6 @@ for set in reversed(sets.data()):
                     temp[card['name']][index] += 1
 columnName.append('2023')
 df = pd.DataFrame.from_dict(temp, orient='index', columns=columnName)
+df.rename()
 #df.insert(df)
 df.to_csv('results/results.csv')

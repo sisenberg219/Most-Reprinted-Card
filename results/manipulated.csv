@@ -1,0 +1,311 @@
+"","card_name","year","printings","rank"
+"1","Bad Moon","1993",3,10
+"2","Balance","1994",6,10
+"3","Fear","1995",9,10
+"4","Disintegrate","1996",10,10
+"5","Circle of Protection: White","1997",11,10
+"6","Circle of Protection: Black","1998",12,10
+"7","Hurricane","1999",14,10
+"8","Healing Salve","2000",14,10
+"9","Healing Salve","2001",15,10
+"10","Fireball","2002",15,10
+"11","Armageddon","2003",15,10
+"12","Healing Salve","2004",16,10
+"13","Grizzly Bears","2005",16,10
+"14","Grizzly Bears","2006",16,10
+"15","Grizzly Bears","2007",17,10
+"16","Grizzly Bears","2008",17,10
+"17","Giant Spider","2009",17,10
+"18","Armageddon","2010",17,10
+"19","Birds of Paradise","2011",18,10
+"20","Armageddon","2012",18,10
+"21","Armageddon","2013",18,10
+"22","Llanowar Elves","2014",20,10
+"23","Llanowar Elves","2015",20,10
+"24","Gravedigger","2016",21,10
+"25","Gravedigger","2017",22,10
+"26","Gravedigger","2018",24,10
+"27","Gravedigger","2019",25,10
+"28","Giant Spider","2020",25,10
+"29","Gravedigger","2021",26,10
+"30","Duress","2022",27,10
+"31","Fireball","2023",28,10
+"32","Badlands","1993",3,9
+"33","Bad Moon","1994",6,9
+"34","Death Ward","1995",9,9
+"35","Cursed Land","1996",10,9
+"36","Circle of Protection: Green","1997",11,9
+"37","Hurricane","1998",12,9
+"38","Healing Salve","1999",14,9
+"39","Circle of Protection: Red","2000",14,9
+"40","Fireball","2001",15,9
+"41","Circle of Protection: Red","2002",15,9
+"42","Hurricane","2003",16,9
+"43","Fireball","2004",16,9
+"44","Armageddon","2005",16,9
+"45","Armageddon","2006",16,9
+"46","Fireball","2007",17,9
+"47","Armageddon","2008",17,9
+"48","Armageddon","2009",17,9
+"49","Circle of Protection: Red","2010",18,9
+"50","Armageddon","2011",18,9
+"51","Fog","2012",19,9
+"52","Bog Wraith","2013",19,9
+"53","Fog","2014",20,9
+"54","Fog","2015",20,9
+"55","Llanowar Elves","2016",21,9
+"56","Llanowar Elves","2017",22,9
+"57","Giant Spider","2018",25,9
+"58","Giant Spider","2019",25,9
+"59","Gravedigger","2020",26,9
+"60","Duress","2021",26,9
+"61","Fireball","2022",28,9
+"62","Duress","2023",29,9
+"63","Aspect of Wolf","1993",3,8
+"64","Badlands","1994",6,8
+"65","Circle of Protection: White","1995",9,8
+"66","Clockwork Beast","1996",10,8
+"67","Circle of Protection: Blue","1997",11,8
+"68","Healing Salve","1998",12,8
+"69","Giant Growth","1999",14,8
+"70","Bog Wraith","2000",14,8
+"71","Circle of Protection: Red","2001",15,8
+"72","Bog Wraith","2002",15,8
+"73","Healing Salve","2003",16,8
+"74","Circle of Protection: Red","2004",16,8
+"75","Fireball","2005",17,8
+"76","Fireball","2006",17,8
+"77","Armageddon","2007",17,8
+"78","Fireball","2008",18,8
+"79","Circle of Protection: Red","2009",18,8
+"80","Giant Spider","2010",19,8
+"81","Bog Wraith","2011",19,8
+"82","Bog Wraith","2012",19,8
+"83","Fog","2013",20,8
+"84","Armageddon","2014",20,8
+"85","Armageddon","2015",20,8
+"86","Fog","2016",21,8
+"87","Giant Spider","2017",23,8
+"88","Llanowar Elves","2018",27,8
+"89","Llanowar Elves","2019",27,8
+"90","Llanowar Elves","2020",27,8
+"91","Llanowar Elves","2021",27,8
+"92","Llanowar Elves","2022",29,8
+"93","Llanowar Elves","2023",29,8
+"94","Armageddon","1993",3,7
+"95","Aspect of Wolf","1994",6,7
+"96","Circle of Protection: Red","1995",9,7
+"97","Bog Wraith","1996",10,7
+"98","Circle of Protection: Black","1997",12,7
+"99","Bog Wraith","1998",12,7
+"100","Fireball","1999",14,7
+"101","Armageddon","2000",14,7
+"102","Bog Wraith","2001",15,7
+"103","Armageddon","2002",15,7
+"104","Circle of Protection: Red","2003",16,7
+"105","Bog Wraith","2004",16,7
+"106","Bog Wraith","2005",17,7
+"107","Bog Wraith","2006",17,7
+"108","Circle of Protection: Red","2007",18,7
+"109","Circle of Protection: Red","2008",18,7
+"110","Fireball","2009",19,7
+"111","Bog Wraith","2010",19,7
+"112","Giant Spider","2011",21,7
+"113","Giant Spider","2012",21,7
+"114","Giant Spider","2013",22,7
+"115","Giant Spider","2014",22,7
+"116","Giant Spider","2015",22,7
+"117","Giant Spider","2016",22,7
+"118","Evolving Wilds","2017",25,7
+"119","Fireball","2018",27,7
+"120","Fireball","2019",27,7
+"121","Fireball","2020",27,7
+"122","Fireball","2021",27,7
+"123","Air Elemental","2022",31,7
+"124","Air Elemental","2023",31,7
+"125","Ankh of Mishra","1993",3,6
+"126","Armageddon","1994",6,6
+"127","Circle of Protection: Green","1995",9,6
+"128","Healing Salve","1996",11,6
+"129","Bog Wraith","1997",12,6
+"130","Armageddon","1998",12,6
+"131","Circle of Protection: Red","1999",14,6
+"132","Air Elemental","2000",14,6
+"133","Air Elemental","2001",15,6
+"134","Air Elemental","2002",15,6
+"135","Bog Wraith","2003",16,6
+"136","Armageddon","2004",16,6
+"137","Air Elemental","2005",17,6
+"138","Air Elemental","2006",17,6
+"139","Bog Wraith","2007",18,6
+"140","Bog Wraith","2008",18,6
+"141","Bog Wraith","2009",19,6
+"142","Air Elemental","2010",21,6
+"143","Air Elemental","2011",23,6
+"144","Air Elemental","2012",23,6
+"145","Air Elemental","2013",23,6
+"146","Air Elemental","2014",24,6
+"147","Air Elemental","2015",24,6
+"148","Air Elemental","2016",24,6
+"149","Air Elemental","2017",26,6
+"150","Air Elemental","2018",28,6
+"151","Air Elemental","2019",29,6
+"152","Air Elemental","2020",31,6
+"153","Air Elemental","2021",31,6
+"154","Command Tower","2022",32,6
+"155","Command Tower","2023",33,6
+"156","Animate Wall","1993",3,5
+"157","Ankh of Mishra","1994",6,5
+"158","Circle of Protection: Blue","1995",9,5
+"159","Counterspell","1996",11,5
+"160","Fireball","1997",13,5
+"161","Counterspell","1998",13,5
+"162","Bog Wraith","1999",14,5
+"163","Fireball","2000",15,5
+"164","Hurricane","2001",16,5
+"165","Hurricane","2002",16,5
+"166","Air Elemental","2003",16,5
+"167","Air Elemental","2004",16,5
+"168","Circle of Protection: Red","2005",18,5
+"169","Circle of Protection: Red","2006",18,5
+"170","Air Elemental","2007",18,5
+"171","Air Elemental","2008",19,5
+"172","Air Elemental","2009",20,5
+"173","Fireball","2010",22,5
+"174","Fireball","2011",24,5
+"175","Fireball","2012",24,5
+"176","Counterspell","2013",24,5
+"177","Fireball","2014",26,5
+"178","Fireball","2015",26,5
+"179","Fireball","2016",26,5
+"180","Fireball","2017",27,5
+"181","Evolving Wilds","2018",30,5
+"182","Disenchant","2019",31,5
+"183","Disenchant","2020",33,5
+"184","Disenchant","2021",33,5
+"185","Disenchant","2022",35,5
+"186","Disenchant","2023",35,5
+"187","Animate Dead","1993",3,4
+"188","Animate Wall","1994",6,4
+"189","Blue Elemental Blast","1995",9,4
+"190","Circle of Protection: Red","1996",11,4
+"191","Counterspell","1997",13,4
+"192","Circle of Protection: Red","1998",13,4
+"193","Armageddon","1999",14,4
+"194","Giant Growth","2000",16,4
+"195","Giant Growth","2001",18,4
+"196","Giant Growth","2002",18,4
+"197","Giant Growth","2003",20,4
+"198","Giant Growth","2004",20,4
+"199","Dark Ritual","2005",20,4
+"200","Dark Ritual","2006",21,4
+"201","Dark Ritual","2007",21,4
+"202","Dark Ritual","2008",21,4
+"203","Counterspell","2009",23,4
+"204","Counterspell","2010",23,4
+"205","Counterspell","2011",24,4
+"206","Counterspell","2012",24,4
+"207","Fireball","2013",25,4
+"208","Disenchant","2014",26,4
+"209","Disenchant","2015",27,4
+"210","Disenchant","2016",28,4
+"211","Disenchant","2017",29,4
+"212","Disenchant","2018",30,4
+"213","Evolving Wilds","2019",32,4
+"214","Dark Ritual","2020",33,4
+"215","Dark Ritual","2021",35,4
+"216","Dark Ritual","2022",36,4
+"217","Dark Ritual","2023",36,4
+"218","Animate Artifact","1993",3,3
+"219","Animate Dead","1994",6,3
+"220","Disenchant","1995",10,3
+"221","Fireball","1996",12,3
+"222","Circle of Protection: Red","1997",13,3
+"223","Fireball","1998",14,3
+"224","Counterspell","1999",17,3
+"225","Disenchant","2000",19,3
+"226","Disenchant","2001",20,3
+"227","Disenchant","2002",20,3
+"228","Dark Ritual","2003",20,3
+"229","Dark Ritual","2004",20,3
+"230","Giant Growth","2005",21,3
+"231","Counterspell","2006",21,3
+"232","Counterspell","2007",21,3
+"233","Counterspell","2008",23,3
+"234","Dark Ritual","2009",24,3
+"235","Dark Ritual","2010",25,3
+"236","Disenchant","2011",26,3
+"237","Disenchant","2012",26,3
+"238","Disenchant","2013",26,3
+"239","Counterspell","2014",26,3
+"240","Counterspell","2015",27,3
+"241","Counterspell","2016",28,3
+"242","Counterspell","2017",29,3
+"243","Counterspell","2018",31,3
+"244","Counterspell","2019",32,3
+"245","Counterspell","2020",33,3
+"246","Counterspell","2021",35,3
+"247","Counterspell","2022",38,3
+"248","Counterspell","2023",39,3
+"249","Ancestral Recall","1993",3,2
+"250","Animate Artifact","1994",6,2
+"251","Dark Ritual","1995",10,2
+"252","Disenchant","1996",12,2
+"253","Disenchant","1997",14,2
+"254","Disenchant","1998",16,2
+"255","Dark Ritual","1999",18,2
+"256","Dark Ritual","2000",19,2
+"257","Dark Ritual","2001",20,2
+"258","Dark Ritual","2002",20,2
+"259","Counterspell","2003",20,2
+"260","Counterspell","2004",20,2
+"261","Disenchant","2005",21,2
+"262","Giant Growth","2006",22,2
+"263","Giant Growth","2007",24,2
+"264","Giant Growth","2008",25,2
+"265","Disenchant","2009",26,2
+"266","Disenchant","2010",26,2
+"267","Dark Ritual","2011",26,2
+"268","Dark Ritual","2012",26,2
+"269","Dark Ritual","2013",27,2
+"270","Dark Ritual","2014",29,2
+"271","Dark Ritual","2015",30,2
+"272","Dark Ritual","2016",30,2
+"273","Dark Ritual","2017",31,2
+"274","Dark Ritual","2018",32,2
+"275","Dark Ritual","2019",33,2
+"276","Evolving Wilds","2020",37,2
+"277","Evolving Wilds","2021",40,2
+"278","Giant Growth","2022",42,2
+"279","Giant Growth","2023",42,2
+"280","Air Elemental","1993",3,1
+"281","Air Elemental","1994",6,1
+"282","Counterspell","1995",10,1
+"283","Dark Ritual","1996",13,1
+"284","Dark Ritual","1997",15,1
+"285","Dark Ritual","1998",16,1
+"286","Disenchant","1999",19,1
+"287","Counterspell","2000",19,1
+"288","Counterspell","2001",20,1
+"289","Counterspell","2002",20,1
+"290","Disenchant","2003",21,1
+"291","Disenchant","2004",21,1
+"292","Counterspell","2005",21,1
+"293","Disenchant","2006",23,1
+"294","Disenchant","2007",24,1
+"295","Disenchant","2008",25,1
+"296","Giant Growth","2009",28,1
+"297","Giant Growth","2010",30,1
+"298","Giant Growth","2011",32,1
+"299","Giant Growth","2012",33,1
+"300","Giant Growth","2013",34,1
+"301","Giant Growth","2014",36,1
+"302","Giant Growth","2015",36,1
+"303","Giant Growth","2016",36,1
+"304","Giant Growth","2017",37,1
+"305","Giant Growth","2018",39,1
+"306","Giant Growth","2019",40,1
+"307","Giant Growth","2020",40,1
+"308","Giant Growth","2021",41,1
+"309","Evolving Wilds","2022",46,1
+"310","Evolving Wilds","2023",47,1
